@@ -1,1 +1,1 @@
-custom alterra terminal logo made for a discord theme
+Custom logo made for the Fallout 4 Terminal theme - Bates
